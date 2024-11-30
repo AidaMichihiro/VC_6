@@ -1,0 +1,26 @@
+@charset "utf-8";
+#A p {
+}
+#A {
+    background-color: #F20A0E;
+    font-family: YuMincho, "Yu Mincho", "Hiragino Mincho ProN", serif;
+    font-style: italic;
+    width: 500px;
+    height: 1000px;
+}
+#A #B {
+    background-color: #EF8648;
+    font-family: YuMincho, "Yu Mincho", "Hiragino Mincho ProN", serif;
+    font-style: italic;
+}
+#A #C {
+    background-color: #F1AE5F;
+    font-family: YuMincho, "Yu Mincho", "Hiragino Mincho ProN", serif;
+    font-style: italic;
+}
+#A #D {
+    background-color: #F5BB4F;
+    font-style: italic;
+    font-family: YuMincho, "Yu Mincho", "Hiragino Mincho ProN", serif;
+    height: 300px;
+}
